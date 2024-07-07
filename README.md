@@ -1,3 +1,3 @@
-Public website for Fritter iOS app
+Public website for Frivol iOS app
 
-https://www.parulagarwal.com/fritter/
+https://www.parulagarwal.com/frivol/
